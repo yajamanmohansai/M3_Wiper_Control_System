@@ -2,7 +2,7 @@
 The wiper control system control is basically used to wipe the water on the wind shield during rain.The working of these wiper system is basically done with a motor control.Instead of motor we considered led working speed as wiper movement and considered a microcontroller STM32 as working of wiper system basically STM32 is a family of microcontroller ICs based on the 32-bit RISC ARM cortexM4.
 
 # INTRODUCTION
-A wiper speed control system regulates the operational speed of a wiper based on frequency. To create a control signal, the pulse signal is digitally processed. The control signal is received by a wiper driving circuit, which modifies the operational speed or timing in response.
+A wiper speed control system regulates the operational speed of a wiper based on frequency. Basically it is designed to clear water on wind sheild.
 
 # SOFTWARE REQUIRED
 STM32 IDE,Quemu,Cygin
